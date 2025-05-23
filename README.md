@@ -1,5 +1,4 @@
 # SQL-Project
-# SQL-Project
 
 This project analyzes sales data using SQL queries on the `DA_SALES` table.
 
